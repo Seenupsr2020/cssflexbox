@@ -1,0 +1,31 @@
+.chess{
+    height: 813px;
+    width: 100%;
+    border-style:solid ;
+}
+.first{
+    display: flex;
+    justify-content: space-evenly;
+  
+}
+
+.white{
+    height:100px;
+    width:12.5% ;
+    border: 1px solid black;
+ /* border-radius: 6px solid black; */
+}
+.black{
+   
+        background-color:black;
+        height:100px;
+        width:12.5% ;
+        border: 1px solid black;
+     /* border-radius: 6px solid black; */
+
+}
+img{
+    padding-top: 10px;
+  padding-left: 50px;
+}
+
